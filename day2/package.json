@@ -1,0 +1,10 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "main": "one.js",
+  "author": "Rishi",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
